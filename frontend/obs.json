@@ -1,5 +1,11 @@
 {
     "84":{
         "todoAction.js":"Sempre Fazer o 'export' das Actions"
+    },
+    "85":{
+        "index.js": "inclusção do DevTools"
+    },
+    "87":{
+        "index.js":"importar applyMiddleware e promise"
     }
 }
