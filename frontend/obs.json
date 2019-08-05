@@ -10,6 +10,9 @@
     },
     "90":{
         "todoActions.js":"Encademaneto de Promisses no Add"
+    },
+    "91":{
+        "todoList.js":"Não esquecer do bindActionCreator"
     }
 
 }
