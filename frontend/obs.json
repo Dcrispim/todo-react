@@ -7,5 +7,9 @@
     },
     "87":{
         "index.js":"importar applyMiddleware e promise"
+    },
+    "90":{
+        "todoActions.js":"Encademaneto de Promisses no Add"
     }
+
 }
