@@ -24,7 +24,6 @@ class TodoForm extends Component{
     }
 
     componentWillMount(){
-        console.log(this.props.search())
         this.props.search()
     }
 
