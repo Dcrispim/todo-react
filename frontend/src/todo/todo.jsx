@@ -89,7 +89,7 @@ export default class Todo extends Component {
                 handleRemove={this.handleRemove}
                 handleMarkedAsPend={this.handleMarkedAsPend}
                 handleMarkedAsDone ={this.handleMarkedAsDone}
-                list={this.state.list}/>
+                />
             </div>
         )
     }
